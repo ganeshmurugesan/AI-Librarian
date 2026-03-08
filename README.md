@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cics-banking-sample-application-cbsa
 The **C**ICS **B**ank **S**ample **A**pplication (CBSA) is an application which simulates the operation of a bank, from the point of view of the Bank Teller. CBSA has multiple uses
 here are a few examples:
@@ -106,3 +107,7 @@ This project is licensed under [Eclipse Public License - v 2.0](LICENSE).
 By downloading, installing, and/or using this sample, you acknowledge that separate license terms may apply to any dependencies that might be required as part of the installation and/or execution and/or automated build of the sample, including the following IBM license terms for relevant IBM components:
 
 - IBM CICS development components terms: https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-BBZLGX
+=======
+# AI-Librarian
+Repository to show how to use Gen-ai for legacy code modernization and documentation
+>>>>>>> 07a358227ff9afac1af43c53bb963fa4ab9c3804
